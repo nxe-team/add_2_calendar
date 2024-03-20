@@ -1,3 +1,5 @@
+add_2_calendar 2.2.5 修改 compileOptions。
+
 # add_2_calendar
 
 A really simple Flutter plugin to add events to each platform's default calendar.
